@@ -22,5 +22,5 @@ Thumbs.db
 
 # Excluded dependencies and old checkpoints
 Plugins/
-Schola/
+Schola
 checkpoints/
