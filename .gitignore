@@ -1,0 +1,26 @@
+
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+
+# Visual Studio generated files
+*.sln
+*.VC.db
+*.VC.VC.opendb
+
+# Temporary files
+*.tmp
+*.log
+UpgradeLog.htm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excluded dependencies and old checkpoints
+Plugins/
+Schola/
+checkpoints/
